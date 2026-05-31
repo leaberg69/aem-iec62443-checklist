@@ -63,6 +63,11 @@ The checklist was developed during the [LRI AEM-60DC8](https://aem.lri.com.br/en
 - [aem-modbus-simulator](https://github.com/leaberg69/aem-modbus-simulator) — slave simulator for integration testing
 - [aem-modbus-cli](https://github.com/leaberg69/aem-modbus-cli) — Modbus diagnostic CLI
 
+
+
+## See also
+
+- [awesome-industrial-modbus](https://github.com/leaberg69/awesome-industrial-modbus) — Curated list of all Modbus tools, libraries, simulators, and resources (lists this project alongside competing alternatives)
 ## License
 
 MIT — see [LICENSE](LICENSE).
